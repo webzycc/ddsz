@@ -6,7 +6,7 @@ a{text-decoration:none;outline:0}input,textarea{margin:0;padding:0;border:none;o
 .pagination{padding:20px;background-color:#fff;text-align:center}
 .pagination ul{display:inline-block;margin-left:0;margin-bottom:0}
 .pagination ul>li{display:inline}
-.pagination ul>li>a,.pagination ul>li>span{margin:0 1px;float:left;padding:4px 12px 3px;line-height:20px;text-decoration:none;background-color:#eee;color:#666}
+.pagination ul>li>a,.pagination ul>li>span{margin:0 1px;float:left;padding:12px 18px 12px;line-height:20px;text-decoration:none;background-color:#eee;color:#666}
 .pagination ul>li>a:focus,.pagination ul>li>a:hover{background-color:#ccc;color:#444}
 .pagination ul>.active>a,.pagination ul>.active>span{background-color:#428BCA;color:#fff}
 .pagination ul>.active>a,.pagination ul>.active>span{cursor:default}
